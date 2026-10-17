@@ -81,6 +81,7 @@ under the guidance of a Ph.D. faculty mentor at IIITDM Kancheepuram.
 
 ## 📜 Certifications
 
+- **Semiconductor Fabrication 101** — Purdue University | Oct 2026
 - **VSD – Static Timing Analysis (STA) – I** — Udemy | Feb 2025
 - **RTL SDC Verification: Finding Timing Bugs Before Synthesis** — Udemy | Oct 2026
 - **AI/ML Workshop – Optical Character Recognition (OCR)** — Proglint Software Solutions | Feb 2023
