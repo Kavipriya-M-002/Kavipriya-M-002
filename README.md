@@ -23,26 +23,26 @@ I'm an M.Tech VLSI Design graduate from VIT, Vellore, with project experience in
 
 ## 🚀 Featured Projects
 
-### 1. Comparative Analysis of SRAM Cells for Low-Power Applications
+### 1. WaferSight: Wafer Defect Pattern Analysis
+Analyzed semiconductor wafer defect patterns using the WM-811K/LSWMD dataset, extracting wafer-level defect metrics, visualizing spatial defect distributions, and comparing machine-learning models for defect classification.
+
+**Tools:** Python, Google Colab, Pandas, NumPy, Matplotlib, Scikit-learn
+
+💻 [Project Repository](https://github.com/Kavipriya-M-002/WaferSight-Wafer-Defect-Pattern-Analysis)
+
+### 2. Comparative Analysis of SRAM Cells for Low-Power Applications
 Designed and simulated a 6T SRAM cell using 90 nm CMOS technology and evaluated circuit-level techniques for leakage-power reduction and static stability.
 
 **Tools:** Cadence Virtuoso
 
 💻 [Project Repository](https://github.com/Kavipriya-M-002/Comparative-Analysis-of-SRAM-Cells-for-Low-Power-Applications)
 
-### 2. Segment-Selective TCAM Architecture with Index-Based Activation
+### 3. Segment-Selective TCAM Architecture with Index-Based Activation
 Developed a low-power TCAM architecture using selective segment activation to reduce unnecessary match-line switching activity during search operations.
 
 **Tools:** Verilog, ModelSim, Intel Quartus Prime
  
 💻 [Project Repository](https://github.com/Kavipriya-M-002/Segment-Selective-Ternary-Content-Addressable-Memory-Architecture-with-Index-Based-Activation)
-
-### 3. Error Estimation in Inexact Floating Point Adders
-Implemented an inexact floating-point adder in Verilog and evaluated the trade-off between computational accuracy, hardware complexity, and delay.
-
-**Tools:** Verilog, Xilinx Vivado
-
-💻 [Project Repository](https://github.com/Kavipriya-M-002/Error-Estimation-in-inexact-Floating-Point-Adders)
 
 ### 4. Design and Fabrication of a Piezoelectric Sensor
 Modeled a PVDF–Graphene composite piezoelectric sensor using COMSOL Multiphysics and explored material and geometric parameters affecting sensor sensitivity and output voltage.
@@ -58,6 +58,13 @@ A wearable belt-based sensing system designed for maternal and fetal health moni
 **Domain:** Wearable Sensor Systems | Maternal & Fetal Health Monitoring
 
 💻 [Project Repository](https://github.com/Kavipriya-M-002/Smart-Assistive-Device-for-Monitoring-Health-Parameters-for-Maternal-Care)
+
+### 6. Error Estimation in Inexact Floating Point Adders
+Implemented an inexact floating-point adder in Verilog and evaluated the trade-off between computational accuracy, hardware complexity, and delay.
+
+**Tools:** Verilog, Xilinx Vivado
+
+💻 [Project Repository](https://github.com/Kavipriya-M-002/Error-Estimation-in-inexact-Floating-Point-Adders)
 
 ## 🔬 Research Experience
 
