@@ -99,7 +99,7 @@ under the guidance of a Ph.D. faculty mentor at IIITDM Kancheepuram.
 5. **OASiS 05:** Professional Skills
 6. **OASiS 06:** Vacuum and Gas Handling
 
-[OASiS Micro-Credential](https://www.credly.com/badges/4bc033fa-6f7f-43fb-b1d1-91e08b2fbb1f/public_url)
+🎓 [OASiS Micro-Credential](https://www.credly.com/badges/4bc033fa-6f7f-43fb-b1d1-91e08b2fbb1f/public_url)
 
 ## 🏆 Achievements
 
