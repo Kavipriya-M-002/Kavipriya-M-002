@@ -6,7 +6,8 @@ I'm an M.Tech VLSI Design graduate from VIT, Vellore, with project experience in
 
 ## 🔬 Technical Interests
 
-- Semiconductor Technology and Fabrication
+- Semiconductor Technology, Fabrication and Process Engineering
+- Wafer Inspection, Defect Analysis and Semiconductor Metrology
 - CMOS Circuit Design and Low-Power VLSI
 - Digital Design and RTL Development
 - Sensor Design and Composite Materials
@@ -17,6 +18,7 @@ I'm an M.Tech VLSI Design graduate from VIT, Vellore, with project experience in
 - **EDA & Simulation Tools:** Cadence Virtuoso, Intel Quartus Prime, Xilinx Vivado, ModelSim
 - **Modeling & Simulation:** COMSOL Multiphysics
 - **Design Knowledge:** Static Timing Analysis (STA) Fundamentals, FPGA Prototyping (Altera DE2-115)
+- **Semiconductor Analysis:** Wafer Map Analysis, Defect Pattern Visualization, Wafer-Level Metrics
 - **Fabrication & Materials:** Hands-on exposure in Sensor Fabrication, Composite Material Handling (PVDF, Graphene)
 - **Programming:** Core Java, Python (Basics)
 - **Operating Systems:** Windows, Linux
