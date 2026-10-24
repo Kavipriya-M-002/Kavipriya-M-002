@@ -86,6 +86,20 @@ under the guidance of a Ph.D. faculty mentor at IIITDM Kancheepuram.
 - **RTL SDC Verification: Finding Timing Bugs Before Synthesis** — Udemy | Oct 2026
 - **AI/ML Workshop – Optical Character Recognition (OCR)** — Proglint Software Solutions | Feb 2023
 
+## 🏅 Micro-Credentials
+
+### OASiS Foundations Program
+
+**Courses Completed:**
+1. **OASiS 01:** Introduction to the Semiconductor Processing Environment – Cleanroom and Safety Protocols
+2. **OASiS 02:** Chemical Safety in Semiconductor Processing
+3. **OASiS 03:** Introduction to Integrated Circuits Fabrication Processes and Metrology
+4. **OASiS 04:** Introduction to Semiconductor Manufacturing and Equipment Safety
+5. **OASiS 05:** Professional Skills
+6. **OASiS 06:** Vacuum and Gas Handling
+
+[OASiS Micro-Credential](https://www.credly.com/badges/4bc033fa-6f7f-43fb-b1d1-91e08b2fbb1f/public_url)
+
 ## 🏆 Achievements
 
 ### People’s Choice Award 
