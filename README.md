@@ -89,7 +89,7 @@ under the guidance of a Ph.D. faculty mentor at IIITDM Kancheepuram.
 ## 🏅 Micro-Credentials
 
 ### OASiS Foundations Program
-**Issued by:** University of Cincinnati
+**Issued by:** University of Cincinnati | Oct 2026
 
 **Courses Completed:**
 1. **OASiS 01:** Introduction to the Semiconductor Processing Environment – Cleanroom and Safety Protocols
